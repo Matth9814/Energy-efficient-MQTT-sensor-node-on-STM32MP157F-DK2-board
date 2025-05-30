@@ -1,0 +1,9 @@
+stm32mp1xx_hal_msp.c:64:6:HAL_MspInit	1
+stm32mp1xx_hal_msp.c:90:6:HAL_IPCC_MspInit	2
+stm32mp1xx_hal_msp.c:117:6:HAL_IPCC_MspDeInit	2
+stm32mp1xx_hal_msp.c:137:6:HAL_DAC_MspInit	2
+stm32mp1xx_hal_msp.c:156:6:HAL_DAC_MspDeInit	2
+stm32mp1xx_hal_msp.c:174:6:HAL_TIM_Base_MspInit	2
+stm32mp1xx_hal_msp.c:194:6:HAL_TIM_Base_MspDeInit	2
+stm32mp1xx_hal_msp.c:225:6:HAL_ADC_MspInit	2
+stm32mp1xx_hal_msp.c:299:6:HAL_ADC_MspDeInit	1

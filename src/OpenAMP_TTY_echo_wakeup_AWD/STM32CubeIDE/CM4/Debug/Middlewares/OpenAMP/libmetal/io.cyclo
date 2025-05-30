@@ -1,0 +1,4 @@
+io.c:12:6:metal_io_init	3
+io.c:35:5:metal_io_block_read	11
+io.c:72:5:metal_io_block_write	11
+io.c:109:5:metal_io_block_set	11

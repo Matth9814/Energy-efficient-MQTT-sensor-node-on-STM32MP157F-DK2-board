@@ -1,0 +1,10 @@
+remoteproc_virtio.c:19:13:rproc_virtio_virtqueue_notify	1
+remoteproc_virtio.c:128:13:rproc_virtio_read_config	3
+remoteproc_virtio.c:33:22:rproc_virtio_get_status	5
+remoteproc_virtio.c:66:17:rproc_virtio_get_dfeatures	6
+remoteproc_virtio.c:82:17:rproc_virtio_get_features	6
+remoteproc_virtio.c:197:1:rproc_virtio_create_vdev	9
+remoteproc_virtio.c:271:6:rproc_virtio_remove_vdev	4
+remoteproc_virtio.c:290:5:rproc_virtio_init_vring	2
+remoteproc_virtio.c:311:5:rproc_virtio_notified	6
+remoteproc_virtio.c:334:6:rproc_virtio_wait_remote_ready	3

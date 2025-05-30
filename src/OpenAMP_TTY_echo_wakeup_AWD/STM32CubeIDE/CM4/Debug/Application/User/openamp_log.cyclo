@@ -1,0 +1,2 @@
+openamp_log.c:58:13:log_buff	2
+openamp_log.c:84:1:__io_putchar	1

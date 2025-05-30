@@ -1,0 +1,13 @@
+stm32mp15xx_disco_bus.c:279:13:I2C4_MspInit	1
+stm32mp15xx_disco_bus.c:339:13:I2C4_MspDeInit	1
+stm32mp15xx_disco_bus.c:377:16:I2C4_WriteReg	2
+stm32mp15xx_disco_bus.c:398:16:I2C4_ReadReg	2
+stm32mp15xx_disco_bus.c:97:9:BSP_I2C4_DeInit	2
+stm32mp15xx_disco_bus.c:119:26:MX_I2C4_Init	1
+stm32mp15xx_disco_bus.c:66:9:BSP_I2C4_Init	3
+stm32mp15xx_disco_bus.c:143:9:BSP_I2C4_WriteReg	1
+stm32mp15xx_disco_bus.c:156:9:BSP_I2C4_ReadReg	1
+stm32mp15xx_disco_bus.c:169:9:BSP_I2C4_WriteReg16	1
+stm32mp15xx_disco_bus.c:182:9:BSP_I2C4_ReadReg16	1
+stm32mp15xx_disco_bus.c:194:9:BSP_I2C4_IsReady	2
+stm32mp15xx_disco_bus.c:210:9:BSP_GetTick	1

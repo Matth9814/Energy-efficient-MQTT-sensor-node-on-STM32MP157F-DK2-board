@@ -1,0 +1,2 @@
+system_stm32mp1xx.c:133:6:SystemInit	1
+system_stm32mp1xx.c:203:6:SystemCoreClockUpdate	9

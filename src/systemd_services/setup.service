@@ -1,0 +1,9 @@
+[Unit]
+Description=service to set ipcc as wakeup source and flash the CM4
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh /home/root/scripts/setup.sh
+
+[Install]
+WantedBy=multi-user.target

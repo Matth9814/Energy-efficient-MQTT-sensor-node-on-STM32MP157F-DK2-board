@@ -1,0 +1,14 @@
+stm32mp1xx_it.c:70:6:NMI_Handler	1
+stm32mp1xx_it.c:83:6:HardFault_Handler	1
+stm32mp1xx_it.c:98:6:MemManage_Handler	1
+stm32mp1xx_it.c:113:6:BusFault_Handler	1
+stm32mp1xx_it.c:128:6:UsageFault_Handler	1
+stm32mp1xx_it.c:143:6:SVC_Handler	1
+stm32mp1xx_it.c:156:6:DebugMon_Handler	1
+stm32mp1xx_it.c:169:6:PendSV_Handler	1
+stm32mp1xx_it.c:182:6:SysTick_Handler	1
+stm32mp1xx_it.c:203:6:RCC_WAKEUP_IRQHandler	1
+stm32mp1xx_it.c:218:6:IPCC_RX1_IRQHandler	1
+stm32mp1xx_it.c:230:6:TIM2_IRQHandler	1
+stm32mp1xx_it.c:248:6:ADC2_IRQHandler	1
+stm32mp1xx_it.c:269:6:EXTI14_IRQHandler	1

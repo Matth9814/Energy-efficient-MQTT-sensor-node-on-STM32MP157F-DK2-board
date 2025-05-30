@@ -1,0 +1,11 @@
+[Unit]
+Description=service to initialize the RPMsg communication
+Requires=setup.service dev-ttyRPMSG0.device 
+After=setup.service dev-ttyRPMSG0.device
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh /home/root/scripts/comm_setup.sh
+
+[Install]
+WantedBy=multi-user.target

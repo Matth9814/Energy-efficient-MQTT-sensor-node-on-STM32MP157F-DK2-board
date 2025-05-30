@@ -1,0 +1,14 @@
+stm32mp1xx_hal_dac_ex.c:112:19:HAL_DACEx_TriangleWaveGenerate	2
+stm32mp1xx_hal_dac_ex.c:161:19:HAL_DACEx_NoiseWaveGenerate	2
+stm32mp1xx_hal_dac_ex.c:203:19:HAL_DACEx_DualSetValue	2
+stm32mp1xx_hal_dac_ex.c:238:13:HAL_DACEx_ConvCpltCallbackCh2	1
+stm32mp1xx_hal_dac_ex.c:254:13:HAL_DACEx_ConvHalfCpltCallbackCh2	1
+stm32mp1xx_hal_dac_ex.c:270:13:HAL_DACEx_ErrorCallbackCh2	1
+stm32mp1xx_hal_dac_ex.c:286:13:HAL_DACEx_DMAUnderrunCallbackCh2	1
+stm32mp1xx_hal_dac_ex.c:311:19:HAL_DACEx_SelfCalibrate	8
+stm32mp1xx_hal_dac_ex.c:441:19:HAL_DACEx_SetUserTrimming	3
+stm32mp1xx_hal_dac_ex.c:486:10:HAL_DACEx_GetTrimOffset	1
+stm32mp1xx_hal_dac_ex.c:525:10:HAL_DACEx_DualGetValue	1
+stm32mp1xx_hal_dac_ex.c:557:6:DAC_DMAConvCpltCh2	1
+stm32mp1xx_hal_dac_ex.c:575:6:DAC_DMAHalfConvCpltCh2	1
+stm32mp1xx_hal_dac_ex.c:593:6:DAC_DMAErrorCh2	1

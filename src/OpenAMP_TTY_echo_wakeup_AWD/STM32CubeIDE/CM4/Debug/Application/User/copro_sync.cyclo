@@ -1,0 +1,6 @@
+copro_sync.c:145:13:CoproSync_RProcStateUpdateCb	1
+copro_sync.c:129:13:CoproSync_ShutdownCb	1
+copro_sync.c:93:20:CoproSync_Init	3
+copro_sync.c:111:20:CoproSync_DeInit	3
+copro_sync.c:156:23:CoproSync_GetRProcState	1
+copro_sync.c:166:20:CoproSync_NotifyProcStateUdpate	2

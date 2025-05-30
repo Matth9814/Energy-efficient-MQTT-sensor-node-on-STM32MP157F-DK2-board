@@ -1,0 +1,6 @@
+openamp.c:74:12:OPENAMP_shmem_init	8
+openamp.c:143:5:MX_OPENAMP_Init	5
+openamp.c:216:6:OPENAMP_DeInit	1
+openamp.c:232:5:OPENAMP_create_endpoint	1
+openamp.c:250:6:OPENAMP_check_for_message	1
+openamp.c:258:6:OPENAMP_Wait_EndPointready	4

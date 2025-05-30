@@ -1,0 +1,19 @@
+[Unit]
+Description=service that runs the application interface
+Requires=comm_setup.service network-online.target
+After=comm_setup.service network-online.target
+# Restart cycle
+# StartLimitIntervalSec > RestartSec * StartLimitBurst
+StartLimitIntervalSec=1d
+# Max restarts in a cycle
+StartLimitBurst=3
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/root/interface/ipcc-interface_noSusp.service.py
+Restart=always
+# Restart delay after service exit
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target
